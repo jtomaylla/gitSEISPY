@@ -1,0 +1,103 @@
+D:\2013\app\SEISPY\WSProyectos\bin\WSProyectos.dll
+D:\2013\app\SEISPY\WSProyectos\bin\WSProyectos.pdb
+D:\2013\app\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+D:\2013\app\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+D:\Sistemas\2013\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+D:\Sistemas\2013\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+D:\Sistemas\2013\SEISPY\WSProyectos\bin\WSProyectos.dll
+D:\Sistemas\2013\SEISPY\WSProyectos\bin\WSProyectos.pdb
+D:\Sistemas\2013\SEISPY\WSProyectos\bin\ClassBusiness.exe
+D:\Sistemas\2013\SEISPY\WSProyectos\bin\ClassData.exe
+D:\Sistemas\2013\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+D:\Sistemas\2013\SEISPY\WSProyectos\bin\ClassData.pdb
+D:\Sistemas\2013\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+D:\Sistemas\2013\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\bin\WSProyectos.dll
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\bin\WSProyectos.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.exe
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\bin\ClassData.exe
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\bin\ClassData.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+H:\SEIS_\2014-03-02 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\bin\WSProyectos.dll
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\bin\WSProyectos.pdb
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\bin\ClassBusiness.exe
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\bin\ClassData.exe
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\bin\ClassBusiness.pdb
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\bin\ClassData.pdb
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\obj\Debug\WSProyectos.dll
+D:\Sistemas\2013\2014-03-06\seispy\WSProyectos\obj\Debug\WSProyectos.pdb
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\bin\WSProyectos.dll
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\bin\WSProyectos.pdb
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\bin\ClassBusiness.exe
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\bin\ClassData.exe
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\bin\ClassData.pdb
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+D:\Sistemas\2013\Version original\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\WSProyectos.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\WSProyectos.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\ClassData.exe
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\office.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\bin\office.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\WSProyectos.dll
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\WSProyectos.pdb
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.exe
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassData.exe
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\office.dll
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassData.pdb
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.xml
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\bin\office.xml
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\WSProyectos.dll
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\WSProyectos.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassData.exe
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\office.dll
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.xml
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\bin\office.xml
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\WSProyectos.dll
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\WSProyectos.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\ClassData.exe
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\office.dll
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\ClassData.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\Microsoft.Office.Interop.Excel.xml
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\bin\office.xml
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\obj\Debug\WSProyectos.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\obj\Debug\WSProyectos.csproj.ResolveComReference.cache
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\obj\Debug\WSProyectos.dll
+C:\Users\ehinostroza\Desktop\SEISPY\WSProyectos\obj\Debug\WSProyectos.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\obj\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\obj\Debug\ClassBusiness.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\obj\Debug\ClassBusiness.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\obj\Debug\ClassBusiness.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassBusiness\obj\Debug\ClassBusiness.pdb

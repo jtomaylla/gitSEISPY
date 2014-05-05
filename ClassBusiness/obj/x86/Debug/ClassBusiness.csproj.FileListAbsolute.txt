@@ -1,0 +1,75 @@
+D:\2013\app\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+D:\2013\app\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+D:\2013\app\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+D:\2013\app\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+D:\2013\app\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+D:\2013\app\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+D:\Sistemas\2013\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+D:\Sistemas\2013\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+D:\Sistemas\2013\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+D:\Sistemas\2013\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+D:\Sistemas\2013\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+D:\Sistemas\2013\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+H:\SEIS_\2014-03-02 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\2014-03-06\seispy\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+D:\Sistemas\2013\2014-03-06\seispy\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+D:\Sistemas\2013\Version original\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe.config
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe.config
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Dropbox\CODIGO SEIS\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe.config
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-04-09 SEIS\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe.config
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.exe
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\bin\Debug\ClassData.exe
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.Properties.Resources.resources
+C:\Users\ehinostroza\Desktop\SEISPY\ClassBusiness\obj\x86\Debug\ClassBusiness.csproj.GenerateResource.Cache

@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DAFF976-E5A7-4804-A6C4-B0966BF35548}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WSProyectos</RootNamespace>
+    <AssemblyName>WSProyectos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.20820.16598, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Administracion\WFBusquedaVisitas.aspx" />
+    <Content Include="Administracion\WFCodEnrEdit.aspx" />
+    <Content Include="Administracion\WFCodEnrNew.aspx" />
+    <Content Include="Administracion\WFCodTamEdit.aspx" />
+    <Content Include="Administracion\WFCodTamNew.aspx" />
+    <Content Include="Administracion\WFEstadoVisitaEdit.aspx" />
+    <Content Include="Administracion\WFFechaEdit.aspx" />
+    <Content Include="Administracion\WFGenerarCodENR.aspx" />
+    <Content Include="Administracion\WFGenerarCodTAM.aspx" />
+    <Content Include="Administracion\WFListaCodENR.aspx" />
+    <Content Include="Administracion\WFListaCodTAM.aspx" />
+    <Content Include="Administracion\WFLocales.aspx" />
+    <Content Include="Administracion\WFLocalesEdit.aspx" />
+    <Content Include="Administracion\WFLocalesNew.aspx" />
+    <Content Include="Administracion\WFProyectos.aspx" />
+    <Content Include="Administracion\WFProyectosEdit.aspx" />
+    <Content Include="Administracion\WFProyectosLocales.aspx" />
+    <Content Include="Administracion\WFProyectosNew.aspx" />
+    <Content Include="Administracion\WFUsuarios.aspx" />
+    <Content Include="Administracion\WFUsuariosEdit.aspx" />
+    <Content Include="Administracion\WFUsuariosNew.aspx" />
+    <Content Include="Administracion\WFUsuariosProyecto.aspx" />
+    <Content Include="Administracion\WFUsuariosRol.aspx" />
+    <Content Include="Administracion\WFVisitas.aspx" />
+    <Content Include="Administracion\WFVisitasEdit.aspx" />
+    <Content Include="Administracion\WFVisitasNew.aspx" />
+    <Content Include="Consejeria\WFAsignarID_ENR.aspx" />
+    <Content Include="Consejeria\WFAsignarID_TAM.aspx" />
+    <Content Include="Consejeria\WFBusquedaVisitasC.aspx" />
+    <Content Include="Consejeria\WFInter.aspx" />
+    <Content Include="Consejeria\WFListadoVisitasC.aspx" />
+    <Content Include="Data\WFBusquedaVisitasD.aspx" />
+    <Content Include="Data\WFListadoVisitasD.aspx" />
+    <Content Include="Data\WFRegistrarErrores.aspx" />
+    <Content Include="images\ajax-loader.gif" />
+    <Content Include="images\ajax-loader2.gif" />
+    <Content Include="images\spss.gif" />
+    <Content Include="KeepSessionAlive.aspx" />
+    <Content Include="Paciente\WFActualizarEstadoVisita.aspx" />
+    <Content Include="Paciente\WFBusquedaVisitas.aspx" />
+    <Content Include="Paciente\WFGenerarVisitas.aspx" />
+    <Content Include="Paciente\WFListadoVisitas.aspx" />
+    <Content Include="Paciente\WFListaVisitas.aspx" />
+    <Content Include="Paciente\WFPacienteContact.aspx" />
+    <Content Include="Paciente\WFPacienteEdit.aspx" />
+    <Content Include="Paciente\WFPacienteNew.aspx" />
+    <Content Include="Paciente\WFPacienteSearch.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WFCambiarClave.aspx" />
+    <Content Include="WFLogin.aspx" />
+    <Content Include="WFPrincipal.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion\WFBusquedaVisitas.aspx.cs">
+      <DependentUpon>WFBusquedaVisitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFBusquedaVisitas.aspx.designer.cs">
+      <DependentUpon>WFBusquedaVisitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFCodEnrEdit.aspx.cs">
+      <DependentUpon>WFCodEnrEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFCodEnrEdit.aspx.designer.cs">
+      <DependentUpon>WFCodEnrEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFCodEnrNew.aspx.cs">
+      <DependentUpon>WFCodEnrNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFCodEnrNew.aspx.designer.cs">
+      <DependentUpon>WFCodEnrNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFCodTamEdit.aspx.cs">
+      <DependentUpon>WFCodTamEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFCodTamEdit.aspx.designer.cs">
+      <DependentUpon>WFCodTamEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFCodTamNew.aspx.cs">
+      <DependentUpon>WFCodTamNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFCodTamNew.aspx.designer.cs">
+      <DependentUpon>WFCodTamNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFEstadoVisitaEdit.aspx.cs">
+      <DependentUpon>WFEstadoVisitaEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFEstadoVisitaEdit.aspx.designer.cs">
+      <DependentUpon>WFEstadoVisitaEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFFechaEdit.aspx.cs">
+      <DependentUpon>WFFechaEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFFechaEdit.aspx.designer.cs">
+      <DependentUpon>WFFechaEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFGenerarCodENR.aspx.cs">
+      <DependentUpon>WFGenerarCodENR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFGenerarCodENR.aspx.designer.cs">
+      <DependentUpon>WFGenerarCodENR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFGenerarCodTAM.aspx.cs">
+      <DependentUpon>WFGenerarCodTAM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFGenerarCodTAM.aspx.designer.cs">
+      <DependentUpon>WFGenerarCodTAM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFListaCodENR.aspx.cs">
+      <DependentUpon>WFListaCodENR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFListaCodENR.aspx.designer.cs">
+      <DependentUpon>WFListaCodENR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFListaCodTAM.aspx.cs">
+      <DependentUpon>WFListaCodTAM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFListaCodTAM.aspx.designer.cs">
+      <DependentUpon>WFListaCodTAM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFLocales.aspx.cs">
+      <DependentUpon>WFLocales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFLocales.aspx.designer.cs">
+      <DependentUpon>WFLocales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFLocalesEdit.aspx.cs">
+      <DependentUpon>WFLocalesEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFLocalesEdit.aspx.designer.cs">
+      <DependentUpon>WFLocalesEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFLocalesNew.aspx.cs">
+      <DependentUpon>WFLocalesNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFLocalesNew.aspx.designer.cs">
+      <DependentUpon>WFLocalesNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFProyectos.aspx.cs">
+      <DependentUpon>WFProyectos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFProyectos.aspx.designer.cs">
+      <DependentUpon>WFProyectos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFProyectosEdit.aspx.cs">
+      <DependentUpon>WFProyectosEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFProyectosEdit.aspx.designer.cs">
+      <DependentUpon>WFProyectosEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFProyectosLocales.aspx.cs">
+      <DependentUpon>WFProyectosLocales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFProyectosLocales.aspx.designer.cs">
+      <DependentUpon>WFProyectosLocales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFProyectosNew.aspx.cs">
+      <DependentUpon>WFProyectosNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFProyectosNew.aspx.designer.cs">
+      <DependentUpon>WFProyectosNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFUsuarios.aspx.cs">
+      <DependentUpon>WFUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFUsuarios.aspx.designer.cs">
+      <DependentUpon>WFUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosEdit.aspx.cs">
+      <DependentUpon>WFUsuariosEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosEdit.aspx.designer.cs">
+      <DependentUpon>WFUsuariosEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosNew.aspx.cs">
+      <DependentUpon>WFUsuariosNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosNew.aspx.designer.cs">
+      <DependentUpon>WFUsuariosNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosProyecto.aspx.cs">
+      <DependentUpon>WFUsuariosProyecto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosProyecto.aspx.designer.cs">
+      <DependentUpon>WFUsuariosProyecto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosRol.aspx.cs">
+      <DependentUpon>WFUsuariosRol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFUsuariosRol.aspx.designer.cs">
+      <DependentUpon>WFUsuariosRol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFVisitas.aspx.cs">
+      <DependentUpon>WFVisitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFVisitas.aspx.designer.cs">
+      <DependentUpon>WFVisitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFVisitasEdit.aspx.cs">
+      <DependentUpon>WFVisitasEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFVisitasEdit.aspx.designer.cs">
+      <DependentUpon>WFVisitasEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\WFVisitasNew.aspx.cs">
+      <DependentUpon>WFVisitasNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administracion\WFVisitasNew.aspx.designer.cs">
+      <DependentUpon>WFVisitasNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consejeria\WFAsignarID_ENR.aspx.cs">
+      <DependentUpon>WFAsignarID_ENR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consejeria\WFAsignarID_ENR.aspx.designer.cs">
+      <DependentUpon>WFAsignarID_ENR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consejeria\WFAsignarID_TAM.aspx.cs">
+      <DependentUpon>WFAsignarID_TAM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consejeria\WFAsignarID_TAM.aspx.designer.cs">
+      <DependentUpon>WFAsignarID_TAM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consejeria\WFBusquedaVisitasC.aspx.cs">
+      <DependentUpon>WFBusquedaVisitasC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consejeria\WFBusquedaVisitasC.aspx.designer.cs">
+      <DependentUpon>WFBusquedaVisitasC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consejeria\WFInter.aspx.cs">
+      <DependentUpon>WFInter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consejeria\WFInter.aspx.designer.cs">
+      <DependentUpon>WFInter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Consejeria\WFListadoVisitasC.aspx.cs">
+      <DependentUpon>WFListadoVisitasC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consejeria\WFListadoVisitasC.aspx.designer.cs">
+      <DependentUpon>WFListadoVisitasC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Data\WFBusquedaVisitasD.aspx.cs">
+      <DependentUpon>WFBusquedaVisitasD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Data\WFBusquedaVisitasD.aspx.designer.cs">
+      <DependentUpon>WFBusquedaVisitasD.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Data\WFListadoVisitasD.aspx.cs">
+      <DependentUpon>WFListadoVisitasD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Data\WFListadoVisitasD.aspx.designer.cs">
+      <DependentUpon>WFListadoVisitasD.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Data\WFRegistrarErrores.aspx.cs">
+      <DependentUpon>WFRegistrarErrores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Data\WFRegistrarErrores.aspx.designer.cs">
+      <DependentUpon>WFRegistrarErrores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="KeepSessionAlive.aspx.cs">
+      <DependentUpon>KeepSessionAlive.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KeepSessionAlive.aspx.designer.cs">
+      <DependentUpon>KeepSessionAlive.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFActualizarEstadoVisita.aspx.cs">
+      <DependentUpon>WFActualizarEstadoVisita.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFActualizarEstadoVisita.aspx.designer.cs">
+      <DependentUpon>WFActualizarEstadoVisita.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFBusquedaVisitas.aspx.cs">
+      <DependentUpon>WFBusquedaVisitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFBusquedaVisitas.aspx.designer.cs">
+      <DependentUpon>WFBusquedaVisitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFGenerarVisitas.aspx.cs">
+      <DependentUpon>WFGenerarVisitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFGenerarVisitas.aspx.designer.cs">
+      <DependentUpon>WFGenerarVisitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFListadoVisitas.aspx.cs">
+      <DependentUpon>WFListadoVisitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFListadoVisitas.aspx.designer.cs">
+      <DependentUpon>WFListadoVisitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFListaVisitas.aspx.cs">
+      <DependentUpon>WFListaVisitas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFListaVisitas.aspx.designer.cs">
+      <DependentUpon>WFListaVisitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteContact.aspx.cs">
+      <DependentUpon>WFPacienteContact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteContact.aspx.designer.cs">
+      <DependentUpon>WFPacienteContact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteEdit.aspx.cs">
+      <DependentUpon>WFPacienteEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteEdit.aspx.designer.cs">
+      <DependentUpon>WFPacienteEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteNew.aspx.cs">
+      <DependentUpon>WFPacienteNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteNew.aspx.designer.cs">
+      <DependentUpon>WFPacienteNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteSearch.aspx.cs">
+      <DependentUpon>WFPacienteSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente\WFPacienteSearch.aspx.designer.cs">
+      <DependentUpon>WFPacienteSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WFCambiarClave.aspx.cs">
+      <DependentUpon>WFCambiarClave.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WFCambiarClave.aspx.designer.cs">
+      <DependentUpon>WFCambiarClave.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WFLogin.aspx.cs">
+      <DependentUpon>WFLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WFLogin.aspx.designer.cs">
+      <DependentUpon>WFLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WFPrincipal.aspx.cs">
+      <DependentUpon>WFPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WFPrincipal.aspx.designer.cs">
+      <DependentUpon>WFPrincipal.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassBusiness\ClassBusiness.csproj">
+      <Project>{A80167F8-ECB0-44B1-9597-B3D7935E3757}</Project>
+      <Name>ClassBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClassData\ClassData.csproj">
+      <Project>{CE84BC1D-7365-4B6D-8719-DA879A61554A}</Project>
+      <Name>ClassData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51528</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/WSProyectos</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

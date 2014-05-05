@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassData\bin\Debug\ClassData.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassData\bin\Debug\ClassData.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassData\obj\Debug\ClassData.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassData\obj\Debug\ClassData.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassData\obj\Debug\ClassData.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\SEISPY\ClassData\obj\Debug\ClassData.pdb

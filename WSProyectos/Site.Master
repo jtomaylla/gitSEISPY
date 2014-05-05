@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WSProyectos.SiteMaster" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+	<iframe id="KeepAliveFrame" width="0" height="0" runat="server"></iframe>
+
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    <asp:LinkButton ID="lkbNomP" runat="server" onclick="lkbNomP_Click" 
+                        ForeColor="White">SEIS PROYECTOS</asp:LinkButton>
+                    
+                </h1>
+            </div>
+            <div class="loginDisplay">
+ <asp:Label ID="Label4" runat="server" Text="Hola: " Font-Bold="True" ForeColor="White"></asp:Label>
+                                                            <asp:Label ID="lblUser" runat="server" ForeColor="White"></asp:Label>
+                                                            &nbsp; &nbsp;<asp:LinkButton 
+                    ID="lkSalir" runat="server" Font-Bold="True" ForeColor="White" 
+                                                                ToolTip="Salir del sistema" 
+                    onclick="lkSalir_Click" >Salir</asp:LinkButton>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="menuBar" runat="server" CssClass="menu" EnableViewState="true" IncludeStyleBlock="false" Orientation="Horizontal">
+
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
